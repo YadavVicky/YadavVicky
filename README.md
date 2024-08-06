@@ -2,6 +2,8 @@
 
 ![](https://leetcard.jacoblin.cool/YadavVicky?ext=contest)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bcc9ae6b-1fc9-4413-9a0e-91994d308b2e/deploy-status)](https://app.netlify.com/sites/vinay-kumar-yadav-portfolio/deploys)
+
 <!--
 **YadavVicky/YadavVicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
