@@ -1,20 +1,47 @@
-## Hi there 👋
+# Hi there 👋
 
-![](https://leetcard.jacoblin.cool/YadavVicky?ext=heatmap,theme=light,unicorn)
+- I'm Vinay, a passionate Full Stack Developer with expertise in **Angular** and **Spring Boot**. I'm currently working at **TCS**, where I focus on building scalable web applications.
+- I have also solved over 500 Leetcode problems across various topics like Trees 🌲, Graphs, and Linked Lists (my favorite 🤩), among others.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, Angular, React
+- **Backend:** Java, Spring Boot, Node.js
+- **Databases:** MySQL, MongoDB
+- **DevOps:** Docker, Jenkins, LightSpeed
+- **Tools:** Git, VSCode, IntelliJ IDEA, Postman, STS
+
+---
+
+## 💼 Work Experience
+
+**TCS - Full Stack Developer**  
+*July, 2021 - Present*  
+- Working as a Front-End and Microservice Developer using Angular and Spring Boot.
+- Participated in TCS Top 10 Coders and achieved a rank of **240**. I received a lot of appreciation since I was the only one in my project to secure a rank 😁.
+
+---
+
+## 📫 Get in Touch
+
+- LinkedIn: [vinay-kumar-yadav-14b87b192](https://www.linkedin.com/in/vinay-kumar-yadav-14b87b192/)
+- Email: [vinaykumar.yadav12346@gmail.com](mailto:vinaykumar.yadav12346@gmail.com)
+
+---
+
+## 📈 LeetCode Stats
+
+![](https://leetcard.jacoblin.cool/YadavVicky?ext=heatmap)
+
+---
+
+## ✨ Fun Facts
+
+- 🌱 I'm currently learning Spring Boot.
+- 💬 Ask me about anything related to Angular or React.
+- ⚡ Fun fact: I have also worked on personal projects developing Android apps. It was a Food Ordering App.
+
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bcc9ae6b-1fc9-4413-9a0e-91994d308b2e/deploy-status)](https://app.netlify.com/sites/vinay-kumar-yadav-portfolio/deploys)
-
-<!--
-**YadavVicky/YadavVicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
