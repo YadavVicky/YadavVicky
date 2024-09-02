@@ -38,8 +38,6 @@
 ---
 ## GitHub Stats
 
-![YadavVicky's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YadavVicky&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadavVicky&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
