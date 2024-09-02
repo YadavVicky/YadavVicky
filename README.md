@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - I'm Vinay, a passionate Full Stack Developer with expertise in **Angular** and **Spring Boot**. I'm currently working at **TCS**, where I focus on building scalable web applications.
-- I have also solved over 500 Leetcode problems across various topics like Trees 🌲, Graphs, and Linked Lists (my favorite 🤩), among others.
+- I have also solved over 600 Leetcode problems across various topics like Trees 🌲, Graphs, and Linked Lists (my favorite 🤩), among others.
 
 ---
 
@@ -34,6 +34,13 @@
 ## 📈 LeetCode Stats
 
 ![](https://leetcard.jacoblin.cool/YadavVicky?ext=heatmap)
+
+---
+## GitHub Stats
+
+![YadavVicky's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YadavVicky&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadavVicky&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
