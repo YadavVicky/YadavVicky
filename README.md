@@ -36,6 +36,8 @@
 ![](https://leetcard.jacoblin.cool/YadavVicky?ext=heatmap)
 
 ---
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=YadavVicky&animated=true)
+---
 ## GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadavVicky&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
