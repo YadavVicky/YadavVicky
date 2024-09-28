@@ -33,9 +33,13 @@
 
 ## 📈 LeetCode Stats
 
+Here are my Leetcode Stats
+
 ![](https://leetcard.jacoblin.cool/YadavVicky?ext=heatmap)
 
 ---
+Here ornaments of Leetcode 😁, my badges (they are hard to collect🥲)
+
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=YadavVicky&animated=true)
 ---
 ## GitHub Stats
