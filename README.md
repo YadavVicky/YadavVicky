@@ -20,7 +20,7 @@
 **TCS - Full Stack Developer**  
 *July, 2021 - Present*  
 - Working as a Front-End and Microservice Developer using Angular and Spring Boot.
-- Participated in TCS Top 10 Coders, in season I achieved a rank of **240**, & in season 2 I achieved a rank of **142**. I received a lot of appreciation since I was the only one in my project to secure a rank 😁.
+- Participated in TCS Top 10 Coders, in season 1 I achieved a rank of **240**, & in season 2 I achieved a rank of **142**. I received a lot of appreciation since I was the only one in my project to secure a rank 😁.
 
 ---
 
