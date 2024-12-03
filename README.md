@@ -18,7 +18,7 @@
 ## 💼 Work Experience
 
 **Accenture - Full Stack Developer**  
-*Nov, 2021 - Present*  
+*Nov, 2024 - Present*  
 - Working as a Front-End and Microservice Developer using Angular and Spring Boot.
 
 **TCS - Full Stack Developer**  
