@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- I'm Vinay, a passionate Full Stack Developer with expertise in **Angular** and **Spring Boot**. I'm currently working at **TCS**, where I focus on building scalable web applications.
+- I'm Vinay, a passionate Full Stack Developer with expertise in **Angular** and **Spring Boot**. I'm currently working at **Accenture India**, where I focus on building scalable web applications.
 - I have also solved over 600 Leetcode problems across various topics like Trees 🌲, Graphs, and Linked Lists (my favorite 🤩), among others.
 
 ---
